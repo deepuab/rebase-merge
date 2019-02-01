@@ -1,3 +1,4 @@
+//Method
 const getLog = (id) =>{
   return `Logger ${id}`
 }

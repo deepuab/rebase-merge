@@ -1,3 +1,4 @@
+//Method
 const getAdmin = (id) =>{
   return `Admin ${id}`
 }

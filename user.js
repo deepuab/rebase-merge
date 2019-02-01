@@ -1,3 +1,4 @@
+//Method
 const getUser = (id) =>{
   return `User ${id}`
 }
