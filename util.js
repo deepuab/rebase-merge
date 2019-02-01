@@ -1,3 +1,4 @@
+//Method
 const getUtils = (id) =>{
   return `Utils ${id}`
 }
