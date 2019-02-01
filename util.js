@@ -1,7 +1,7 @@
-const getUtil = (id) =>{
-  return `Util ${id}`
+const getUtils = (id) =>{
+  return `Utils ${id}`
 }
 
 module.exports={
-  getUtil
+  getUtils
 }
