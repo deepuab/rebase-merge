@@ -1,5 +1,5 @@
 const getLog = (id) =>{
-  return `Log ${id}`
+  return `Logger ${id}`
 }
 
 module.exports={
