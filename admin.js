@@ -1,8 +1,8 @@
 //Method
-const getAdmin = (id) =>{
-  return `Admin ${id}`
+const getNewAdmin = (id) =>{
+  return `Admin ${id+1}`
 }
 
 module.exports={
-  getAdmin
+  getNewAdmin
 }
